@@ -124,9 +124,6 @@
 [submodule "src/code.cloudfoundry.org/runtimeschema"]
 	path = src/code.cloudfoundry.org/runtimeschema
 	url = https://github.com/cloudfoundry/runtimeschema
-[submodule "src/github.com/jinzhu/gorm"]
-	path = src/github.com/jinzhu/gorm
-	url = https://github.com/jinzhu/gorm
 [submodule "src/github.com/jinzhu/inflection"]
 	path = src/github.com/jinzhu/inflection
 	url = https://github.com/jinzhu/inflection
