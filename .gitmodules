@@ -124,15 +124,9 @@
 [submodule "src/code.cloudfoundry.org/runtimeschema"]
 	path = src/code.cloudfoundry.org/runtimeschema
 	url = https://github.com/cloudfoundry/runtimeschema
-[submodule "src/github.com/jinzhu/gorm"]
-	path = src/github.com/jinzhu/gorm
-	url = https://github.com/jinzhu/gorm
 [submodule "src/github.com/jinzhu/inflection"]
 	path = src/github.com/jinzhu/inflection
 	url = https://github.com/jinzhu/inflection
-[submodule "src/github.com/go-sql-driver/mysql"]
-	path = src/github.com/go-sql-driver/mysql
-	url = https://github.com/go-sql-driver/mysql
 [submodule "src/github.com/golang/protobuf"]
 	path = src/github.com/golang/protobuf
 	url = https://github.com/golang/protobuf
@@ -142,9 +136,6 @@
 [submodule "src/code.cloudfoundry.org/eventhub"]
 	path = src/code.cloudfoundry.org/eventhub
 	url = https://github.com/cloudfoundry/eventhub
-[submodule "src/github.com/lib/pq"]
-	path = src/github.com/lib/pq
-	url = https://github.com/lib/pq
 [submodule "src/github.com/uber-go/zap"]
 	path = src/github.com/uber-go/zap
 	url = https://github.com/uber-go/zap
